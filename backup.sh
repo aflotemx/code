@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-# use cron to automate this task as you wish.
-# provide absolute path for the backup.sh script
-# and the rclone remote destination path as the first and only argument.
-
 # prepare cloud remote path
 [ -n "$1" ] && cloud="$1"
 

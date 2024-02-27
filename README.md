@@ -10,6 +10,8 @@ Clone this repo to your machine
 
 Add your git projects to this root directory.
 
+Don't forget to add a .gitignore file to every root repo 
+
 Create a cron job to automate this task.
 
 Verify
